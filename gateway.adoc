@@ -1,0 +1,2 @@
+// Auto-generated file: D:\MyCode\zama\demo\gateway.adoc
+// Generated at: 2025-10-20T05:52:17.501Z
